@@ -1,0 +1,20 @@
+# .NET build output (api/)
+bin/
+obj/
+.vs/
+*.user
+
+# Node / Vite (web/)
+node_modules/
+dist/
+
+# Local secrets and environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and OS clutter
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
