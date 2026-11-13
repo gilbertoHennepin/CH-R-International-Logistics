@@ -24,4 +24,6 @@ public class BorderMapTests
         // the assignment lists exactly 10 countries
         Assert.Equal(10, BorderMap.Neighbors.Count);
     }
+    
+    
 }
