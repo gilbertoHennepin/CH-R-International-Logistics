@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CountryRoute.Api/CountryRoute.Api.csproj" />
+  <Project Path="CountryRoute.Tests/CountryRoute.Tests.csproj" />
+</Solution>
